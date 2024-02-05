@@ -8,7 +8,7 @@
     --cor3: hsl(0, 0%, 20%);
     --cor4: hsl(0, 0%, 12%);
     --cor5: hsl(0, 0%, 8%);
-    --font: font-family: 'Inter', sans-serif;
+    --font: 'Inter', sans-serif;
 }
 
 body{
@@ -67,7 +67,6 @@ p{
 }
 
 div.socialmedia{
-    display: block !important;
     width: 400px;
     height: 40px;
     background-color: var(--cor3);
@@ -75,8 +74,7 @@ div.socialmedia{
     padding: 10px;
     text-align: center;
     margin-top: 7px;
-    cursor: pointer
-    ;
+    cursor: pointer;
 }
 
 div.socialmedia > p > a{
