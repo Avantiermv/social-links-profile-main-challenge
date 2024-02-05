@@ -67,6 +67,7 @@ p{
 }
 
 div.socialmedia{
+    display: block !important;
     width: 400px;
     height: 40px;
     background-color: var(--cor3);
@@ -74,7 +75,8 @@ div.socialmedia{
     padding: 10px;
     text-align: center;
     margin-top: 7px;
-    cursor: pointer;
+    cursor: pointer
+    ;
 }
 
 div.socialmedia > p > a{
