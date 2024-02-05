@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Avantiermv/social-links-profile-main-challenge)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://avantiermv.github.io/social-links-profile-main-challenge/)
 
 ## My process
 
@@ -45,4 +45,4 @@ I learned how to use some css properties. I also reinforced my knowledge of html
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Avantiermv](https://www.frontendmentor.io/profile/Avantiermv)
